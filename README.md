@@ -2,7 +2,7 @@
 Olá eu sou Rafael Giorgi
 
 - 🔭 I’m currently working on HTML, CSS, JS, SQL;
-- 🌱 I’m currently learning JS, Node.js, Python, SQL, Flutter, Java, MongoDB, Vue.js;
+- 🌱 I’m studing JS, Node.js, Python, SQL, Flutter, Java, MongoDB, Vue.js;
 - 📫 How to reach me: 
         - Email: devraffles@gmail.com
         - Instagram: dev.giorgi
