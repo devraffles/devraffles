@@ -1,7 +1,7 @@
 
 Olá eu sou Rafael Giorgi
 
-- 🔭 I’m currently working on HTML, CSS, JS, SQL;
+- 🔭 I’m currently working on C, HTML, CSS, JS, SQL;
 - 🌱 I’m studing JS, Node.js, Python, Flutter, Java, MongoDB;
 - 📫 How to reach me: 
         - Email: devraffles@gmail.com
