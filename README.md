@@ -2,7 +2,7 @@
 Olá eu sou Rafael Giorgi
 
 - 🔭 I’m currently working on C, HTML, CSS, JS, SQL;
-- 🌱 I’m studing JS, Node.js, Python, Flutter, Java, MongoDB;
+- 🌱 I’m studing JS, Node.js, Python, Java, MongoDB;
 - 📫 How to reach me: 
         - Email: devraffles@gmail.com
         - Instagram: dev.giorgi
@@ -17,9 +17,7 @@ Olá eu sou Rafael Giorgi
 <div display="flexbox" gap="1rem"> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50px"/>
 </div> <br>
