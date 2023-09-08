@@ -1,4 +1,3 @@
-
 Olá eu sou Rafael Giorgi
 
 - 🔭 I’m currently working on C, HTML, CSS, JS, SQL;
@@ -8,10 +7,11 @@ Olá eu sou Rafael Giorgi
         - Instagram: dev.giorgi
         - Likedin: in/rafael-giorgi-giorgi-22182b289
 
-<div align="center"><br>
-  <a href="https://github.com/rafaelnator/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnator&layout=compact&langs_count=7&theme=holi"/>
+<div align="center">
+  <a href="https://github.com/rafaelnator">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnator&layout=compact&langs_count=7&theme=transparent"/>
 </div>
+
 
 <div display="flexbox" gap="1rem" align="center"> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px"/>
