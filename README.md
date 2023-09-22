@@ -1,6 +1,6 @@
 Olá eu sou Rafael Giorgi
 
-- 🔭 I’m currently working on C, HTML, CSS, JS, SQL;
+- 🔭 I’m currently working with C, HTML, CSS, JS, SQL, UML;
 - 🌱 I’m studing Flutter, JS, Node.js, Python, Java, MongoDB;
 - 💡 I'm focusing on: Node.js and JS;
 - 📫 How to reach me: 
