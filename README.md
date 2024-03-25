@@ -1,8 +1,8 @@
 Olá eu sou Rafael Giorgi
 
-- 🔭 I’m currently working with C, HTML, CSS, JS, Node.js, SQL, MongoDB;
+- 🔭 I’m currently working with C, HTML, CSS, JS, Node.js, PHP, SQL, MongoDB;
 - 🌱 I’m studing Python, Java;
-- 💡 I'm focusing on: Node.js and JS;
+- 💡 I'm focusing on: Node.js and MongoDB;
 - 📫 How to reach me: 
         - Email: devraffles@gmail.com
         - Instagram: dev.giorgi
