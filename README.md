@@ -1,29 +1,29 @@
-Olá eu sou Rafael Giorgi
+<div align="center" style="margin-bottom:100px">
+        
+</div>
 
-- 🔭 I’m currently working with C, HTML, CSS, JS, Node.js, PHP, SQL, MongoDB;
-- 🌱 I’m studing Python, Java;
-- 💡 I'm focusing on: Node.js and MongoDB;
-- 📫 How to reach me: 
-        - Email: devraffles@gmail.com
-        - Instagram: dev.giorgi
-        - Likedin: in/rafael-giorgi-giorgi-22182b289
-
-<div align="center">
-  <a href="https://github.com/rafaelnator">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnator&layout=compact&langs_count=7&theme=transparent"/>
+<div align="center" style="margin-bottom:100px">
+        <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelnator&theme=dracula&mode=weekly" />
+        <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnator&show_icons=true&theme=dracula&layout=compact" />
 </div>
 
 
-<div display="flexbox" gap="1rem" align="center"> <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50px"/>
-</div> <br>
+## My Skills
 
-<div display="flexbox" gap="1rem" align="center"><br>
+### Programming and Development:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+
+### Workstation Tools:
+
+![VScode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+## Contacts:
+
+<div>
 <a href="https://www.instagram.com/dev.giorgii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:devraffles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-dos-santos-giorgi-22182b289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
