@@ -24,7 +24,7 @@ class SobreMim extends Desenvolvedora {
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias:</b>
 
-### Principais:
+### 👨‍💻 Principais:
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)&nbsp;
@@ -32,7 +32,7 @@ class SobreMim extends Desenvolvedora {
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-### Já tive contato:
+### 👀 Já tive contato:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)&nbsp;
@@ -45,18 +45,18 @@ class SobreMim extends Desenvolvedora {
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-### Aprendendo:
+### ✏️ Aprendendo:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-### Ferrametas:
+### 🧰 Ferrametas:
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 
-# 👩‍🎓 Formação acadêmica
+# 👨‍🎓 Formação acadêmica
 
 <img align="left" height="50px" width="50px" alt="Bento Quirino" src="https://github.com/rafaelnator/rafaelnator/blob/main/IMG-README/Forma%C3%A7%C3%A3o/Bentinho.png"/>
 
@@ -80,7 +80,7 @@ Março de 2024 - (Previsto) Dezembro de 2026
   
 <br>
 
-## Contacts:
+## 🤝 Contatos:
 
 [<img align="left" alt="Whatzap" src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"/>](https://wa.me/5519981627300)&nbsp;
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:devraffles@gmail.com)&nbsp;
