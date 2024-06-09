@@ -1,6 +1,8 @@
 <div align="center" style="margin-bottom:100px">
-        
+        <img src="https://github.com/rafaelnator/rafaelnator/blob/main/IMG-README/Bem-vindo.jpg" />
 </div>
+
+<br>
 
 <div align="center" style="margin-bottom:100px">
         <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelnator&theme=dracula&mode=weekly" />
