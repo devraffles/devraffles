@@ -18,8 +18,8 @@ class SobreMim extends Desenvolvedora {
 # 📊 Estatísticas no GitHub e 🔝 Linguagens mais usadas
 
 <div align="center" style="margin-bottom:100px">
-        <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelnator&theme=dracula&mode=weekly" />
-        <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnator&show_icons=true&theme=dracula&layout=compact" />
+        <img width="48%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rafaelnator&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA" />
+        <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnator&show_icons=true&theme=cobalt&layout=compact" />
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias:</b>
