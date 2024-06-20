@@ -6,7 +6,7 @@
 
 ```js
 import Desenvolvedor from 'Rafael';
-class SobreMim extends Desenvolvedora {
+class SobreMim extends Desenvolvedor {
   nome       = 'Rafael dos Santos Girogi';
   idade      = '18 anos';
   area       = 'Desenvolvedor Back-end';
