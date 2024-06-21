@@ -16,16 +16,16 @@ class SobreMim extends Desenvolvedor {
 ```
 
 # 📊 Estatísticas no GitHub e 🔝 Linguagens mais usadas
-<table align="center">
-   <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnator&layout=compact&theme=gotham&hide" />
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelnator&theme=gotham&hide" />
+<table>
+   <div align="center">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnator&layout=compact&theme=gotham&hide"/> <br>
+      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelnator&theme=gotham&hide" />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafaelnator&theme=gotham&hide&hide_border=false&include_all_commits=false&count_private=true" />    
   </div>
 </table>
-<table align="center">
-  <div>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelnator&theme=gotham&hide" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnator&theme=gotham&hide&hide_border=false&include_all_commits=false&count_private=true" />
+<table>
+  <div align="center">
+      <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelnator&theme=gotham&hide" />
   </div>
 </table>
 <br>
@@ -105,6 +105,7 @@ Março de 2024 - (Previsto) Dezembro de 2026
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rafael-dos-santos-giorgi-22182b289/)&nbsp;
 [<img align="left" alt="GitHub" src="https://img.shields.io/github/followers/rafaelnator?style=social&label=@rafaelnator"/>](https://github.com/rafaelnator)&nbsp;
 
+<div  align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -119,7 +120,8 @@ Março de 2024 - (Previsto) Dezembro de 2026
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
 </picture>
-
+<div/>
+        
 <div align="right">
 <br>
 
