@@ -68,7 +68,6 @@ class SobreMim extends Desenvolvedor {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 ### ✏️ Aprendendo:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![ReactJS](https://img.shields.io/badge/React.JS-0078D4?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-0078D4?style=for-the-badge&logo=react&logoColor=white)&nbsp;
