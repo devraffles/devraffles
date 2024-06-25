@@ -45,12 +45,14 @@ class SobreMim extends Desenvolvedor {
 
 #### 📚 Bibliotecas & Framework
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![ReactJS](https://img.shields.io/badge/React.JS-0078D4?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 
 ### Banco de Dados:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ### Mobile:
+![React Native](https://img.shields.io/badge/React_Native-0078D4?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)&nbsp;
 
@@ -67,10 +69,11 @@ class SobreMim extends Desenvolvedor {
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
-### ✏️ Aprendendo:
+### ✏️ Estudando:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![ReactJS](https://img.shields.io/badge/React.JS-0078D4?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-0078D4?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0078D4?logo=postgresql&logoColor=white&style=for-the-badge)&nbsp;
 
 
 # 👨‍🎓 Formação acadêmica
