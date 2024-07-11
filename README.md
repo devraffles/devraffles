@@ -77,6 +77,7 @@ class SobreMim extends Desenvolvedor {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0078D4?logo=postgresql&logoColor=white&style=for-the-badge)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0078D4?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-050a0b?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
+![NextJS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=next&logoColor=white)&nbsp;
 
 
 # 👨‍🎓 Formação acadêmica
