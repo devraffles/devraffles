@@ -46,12 +46,18 @@ class SobreMim extends Desenvolvedor {
         <img src="https://skillicons.dev/icons?i=js">&nbsp        
 <div/>
 
-#### 📚 Bibliotecas & Framework
+#### 📚 Bibliotecas
 <div display="flex">
-        <img src="https://skillicons.dev/icons?i=bootstrap">&nbsp
-        <img src="https://skillicons.dev/icons?i=react">&nbsp   
+        <img src="https://skillicons.dev/icons?i=prisma">&nbsp  
+        <img src="https://skillicons.dev/icons?i=react">&nbsp
 <div/>
 
+#### 🏗️ Framework
+<div display="flex">
+        <img src="https://skillicons.dev/icons?i=bootstrap">&nbsp         
+        <img src="https://skillicons.dev/icons?i=nextjs">&nbsp  
+<div/>
+        
 ### 🏦 Banco de Dados:
 <div display="flex">
         <img src="https://skillicons.dev/icons?i=mongodb">&nbsp
