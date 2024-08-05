@@ -57,7 +57,7 @@ class SobreMim extends Desenvolvedor {
         <img src="https://skillicons.dev/icons?i=bootstrap">&nbsp         
         <img src="https://skillicons.dev/icons?i=nextjs">&nbsp
 
-<img src="https://skillicons.dev/icons?i=tailwind">&nbsp  
+        <img src="https://skillicons.dev/icons?i=tailwind">&nbsp  
 <div/>
         
 ### 🏦 Banco de Dados:
