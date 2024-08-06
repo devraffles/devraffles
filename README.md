@@ -56,7 +56,6 @@ class SobreMim extends Desenvolvedor {
 <div display="flex">
         <img src="https://skillicons.dev/icons?i=bootstrap">&nbsp         
         <img src="https://skillicons.dev/icons?i=nextjs">&nbsp
-
         <img src="https://skillicons.dev/icons?i=tailwind">&nbsp  
 <div/>
         
