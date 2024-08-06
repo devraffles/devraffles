@@ -2,7 +2,7 @@
         <img src="https://github.com/rafaelnator/rafaelnator/blob/main/IMG-README/Bem-vindo.jpg" />
 </div>
 
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim:**
+# **Sobre mim:**
 
 ```js
 import Desenvolvedor from 'Rafael';
