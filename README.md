@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom:100px">
-        <img src="https://github.com/rafaelnator/rafaelnator/blob/main/IMG-README/Bem-vindo.jpg" />
+        <img src="https://github.com/devraffles/devraffles/blob/main/IMG-README/Bem-vindo.jpg" />
 </div>
 
 # **Sobre mim:**
@@ -18,13 +18,13 @@ class SobreMim extends Desenvolvedor {
 # 📊 Estatísticas no GitHub e 🔝 Linguagens mais usadas
 <table>
    <div align="center">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnator&layout=compact&theme=gotham&hide"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnator&theme=gotham&hide&hide_border=false&include_all_commits=false&count_private=true" />    
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraffles&layout=compact&theme=gotham&hide"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devraffles&theme=gotham&hide&hide_border=false&include_all_commits=false&count_private=true" />    
   </div>
 </table>
 <table>
   <div align="center">
-      <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelnator&theme=gotham&hide" />
+      <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devraffles&theme=gotham&hide" />
   </div>
 </table>
 <br>
@@ -96,17 +96,27 @@ class SobreMim extends Desenvolvedor {
         <img src="https://skillicons.dev/icons?i=prisma">&nbsp        
         <img src="https://skillicons.dev/icons?i=nextjs">&nbsp     
 <div/>
+        
+### Tecnologias que eu uso no meu dia:
+<div display="flex">
+        <img src="https://skillicons.dev/icons?i=python">&nbsp
+        <img src="https://skillicons.dev/icons?i=typescript">&nbsp
+        <img src="https://skillicons.dev/icons?i=html">&nbsp
+        <img src="https://skillicons.dev/icons?i=css">&nbsp
+        <img src="https://skillicons.dev/icons?i=js">&nbsp
+        <img src="https://skillicons.dev/icons?i=nodejs">&nbsp      
+<div/>
 
 
 # 👨‍🎓 Formação acadêmica
 
-<img align="left" height="50px" width="50px" alt="Bento Quirino" src="https://github.com/rafaelnator/rafaelnator/blob/main/IMG-README/Forma%C3%A7%C3%A3o/Bentinho.png"/>
+<img align="left" height="50px" width="50px" alt="Bento Quirino" src="https://github.com/devraffles/devraffles/blob/main/IMG-README/Forma%C3%A7%C3%A3o/Bentinho.png"/>
 
 **Curso Técnico em Imormática**\
 Colégio Técnico Bento Quirino\
 Feverero de 2021 - Dezembro de 2023
 
-<img align="left" height="50px" width="50px" alt="Bento Quirino" src="https://github.com/rafaelnator/rafaelnator/blob/main/IMG-README/Forma%C3%A7%C3%A3o/Unimetrocamp.png"/>
+<img align="left" height="50px" width="50px" alt="Bento Quirino" src="https://github.com/devraffles/devraffles/blob/main/IMG-README/Forma%C3%A7%C3%A3o/Unimetrocamp.png"/>
 
 **Análise e Desenvolvimento de Sistemas**\
 Centro Universitário UniMetrocamp - Wyden\
@@ -117,7 +127,7 @@ Março de 2024 - (Previsto) Dezembro de 2026
 <br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="Conquistas no GitHub" src="https://github-profile-trophy.vercel.app/?username=rafaelnator&theme=discord&no-frame=true&column=7">
+    <img alt="Conquistas no GitHub" src="https://github-profile-trophy.vercel.app/?username=devraffles&theme=discord&no-frame=true&column=7">
 </a>
   
 <br>
@@ -128,7 +138,7 @@ Março de 2024 - (Previsto) Dezembro de 2026
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:devraffles@gmail.com)&nbsp;
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/dev.giorgii/)&nbsp;
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rafael-dos-santos-giorgi-22182b289/)&nbsp;
-[<img align="left" alt="GitHub" src="https://img.shields.io/github/followers/rafaelnator?style=social&label=@rafaelnator"/>](https://github.com/rafaelnator)&nbsp;
+[<img align="left" alt="GitHub" src="https://img.shields.io/github/followers/devraffles?style=social&label=@devraffles"/>](https://github.com/devraffles)&nbsp;
 
 <div  align="center">
 <picture>
@@ -150,6 +160,6 @@ Março de 2024 - (Previsto) Dezembro de 2026
 <div align="right">
 <br>
 
-![profile-views](https://komarev.com/ghpvc/?username=rafaelnator&color=blue)
+![profile-views](https://komarev.com/ghpvc/?username=devraffles&color=blue)
 
 </div>
