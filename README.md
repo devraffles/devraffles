@@ -18,7 +18,7 @@ class SobreMim extends Desenvolvedor {
 # 📊 Estatísticas no GitHub e 🔝 Linguagens mais usadas
 <table>
    <div align="center">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraffles&layout=compact&theme=gotham&hide"/>
+      <img height="200em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraffles&layout=compact&theme=gotham&hide"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devraffles&theme=gotham&hide&hide_border=false&include_all_commits=false&count_private=true" />    
   </div>
 </table>
