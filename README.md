@@ -39,6 +39,11 @@ class SobreMim extends Desenvolvedor {
         <img src="https://skillicons.dev/icons?i=python">&nbsp        
 <div/>
         
+#### 📚 Bibliotecas
+<div display="flex">
+        <img src="https://skillicons.dev/icons?i=prisma">&nbsp  =
+<div/>
+        
 ### Front-end:
 <div display="flex">
         <img src="https://skillicons.dev/icons?i=html">&nbsp
@@ -47,8 +52,7 @@ class SobreMim extends Desenvolvedor {
 <div/>
 
 #### 📚 Bibliotecas
-<div display="flex">
-        <img src="https://skillicons.dev/icons?i=prisma">&nbsp  
+<div display="flex"> 
         <img src="https://skillicons.dev/icons?i=react">&nbsp
 <div/>
 
