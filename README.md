@@ -41,7 +41,7 @@ class SobreMim extends Desenvolvedor {
         
 #### 📚 Bibliotecas
 <div display="flex">
-        <img src="https://skillicons.dev/icons?i=prisma">&nbsp  =
+        <img src="https://skillicons.dev/icons?i=prisma">&nbsp
 <div/>
         
 ### Front-end:
