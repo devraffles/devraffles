@@ -109,7 +109,9 @@ class SobreMim extends Desenvolvedor {
         <img src="https://skillicons.dev/icons?i=css">&nbsp
         <img src="https://skillicons.dev/icons?i=js">&nbsp
         <img src="https://skillicons.dev/icons?i=react">&nbsp
-        <img src="https://skillicons.dev/icons?i=nodejs">&nbsp      
+        <img src="https://skillicons.dev/icons?i=nodejs">&nbsp
+        <img src="https://skillicons.dev/icons?i=mongodb">&nbsp
+        <img src="https://skillicons.dev/icons?i=postgresql">&nbsp  
 <div/>
 
 
