@@ -93,11 +93,10 @@ class SobreMim extends Desenvolvedor {
 ### ✏️ Estudando:
 <div display="flex">
         <img src="https://skillicons.dev/icons?i=python">&nbsp
-        <img src="https://skillicons.dev/icons?i=react">&nbsp
-        <img src="https://skillicons.dev/icons?i=tailwind">&nbsp
         <img src="https://skillicons.dev/icons?i=postgresql">&nbsp
-        <img src="https://skillicons.dev/icons?i=typescript">&nbsp
-        <img src="https://skillicons.dev/icons?i=prisma">&nbsp        
+        <img src="https://skillicons.dev/icons?i=typescript">&nbsp        
+        <img src="https://skillicons.dev/icons?i=go">&nbsp        
+        <img src="https://skillicons.dev/icons?i=react">&nbsp
         <img src="https://skillicons.dev/icons?i=nextjs">&nbsp     
 <div/>
         
