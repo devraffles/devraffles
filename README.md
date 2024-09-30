@@ -140,7 +140,6 @@ Março de 2024 - (Previsto) Dezembro de 2026
 
 ## 🤝 Contatos:
 
-[<img align="left" alt="Whatzap" src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"/>](https://wa.me/5519981627300)&nbsp;
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:devraffles@gmail.com)&nbsp;
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/dev.giorgii/)&nbsp;
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rafael-dos-santos-giorgi-22182b289/)&nbsp;
