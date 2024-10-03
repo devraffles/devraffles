@@ -9,7 +9,7 @@ import Desenvolvedor from 'Rafael';
 class SobreMim extends Desenvolvedor {
   nome       = 'Rafael dos Santos Girogi';
   idade      = '18 anos';
-  area       = 'Desenvolvedor Full Stack';
+  area       = 'Desenvolvedor Back-End';
   cursando   = 'Análise e Desenvolvimento de Sistemas 2° Semestre';
   local      = 'Campinas, SP';
 }
