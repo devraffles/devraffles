@@ -34,9 +34,10 @@ class SobreMim extends Desenvolvedor {
 ### 👨‍💻 Back-end:
 <div display="flex">
         <img src="https://skillicons.dev/icons?i=nodejs">&nbsp
+        <img src="https://skillicons.dev/icons?i=go">&nbsp
+        <img src="https://skillicons.dev/icons?i=python">&nbsp        
         <img src="https://skillicons.dev/icons?i=php">&nbsp
         <img src="https://skillicons.dev/icons?i=java">&nbsp        
-        <img src="https://skillicons.dev/icons?i=python">&nbsp        
 <div/>
         
 #### 📚 Bibliotecas
@@ -87,7 +88,8 @@ class SobreMim extends Desenvolvedor {
 <div display="flex">
         <img src="https://skillicons.dev/icons?i=c">&nbsp
         <img src="https://skillicons.dev/icons?i=flutter">&nbsp
-        <img src="https://skillicons.dev/icons?i=java">&nbsp        
+        <img src="https://skillicons.dev/icons?i=java">&nbsp
+        <img src="https://skillicons.dev/icons?i=php">&nbsp
 <div/>
         
 ### ✏️ Estudando:
@@ -105,6 +107,7 @@ class SobreMim extends Desenvolvedor {
         <img src="https://skillicons.dev/icons?i=python">&nbsp
         <img src="https://skillicons.dev/icons?i=typescript">&nbsp
         <img src="https://skillicons.dev/icons?i=nodejs">&nbsp
+        <img src="https://skillicons.dev/icons?i=prisma">&nbsp
         <img src="https://skillicons.dev/icons?i=postgresql">&nbsp  
         <img src="https://skillicons.dev/icons?i=html">&nbsp
         <img src="https://skillicons.dev/icons?i=css">&nbsp
