@@ -122,7 +122,7 @@ class SobreMim extends Desenvolvedor {
 
 <img align="left" height="50px" width="50px" alt="Bento Quirino" src="https://github.com/devraffles/devraffles/blob/main/IMG-README/Forma%C3%A7%C3%A3o/Bentinho.png"/>
 
-**Curso Técnico em Imormática**\
+**Curso Técnico em Informática**\
 Colégio Técnico Bento Quirino\
 Feverero de 2021 - Dezembro de 2023
 
