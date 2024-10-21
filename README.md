@@ -103,16 +103,14 @@ class SobreMim extends Desenvolvedor {
         
 ### Tecnologias que eu uso no meu dia:
 <div display="flex">
-        <img src="https://skillicons.dev/icons?i=python">&nbsp
         <img src="https://skillicons.dev/icons?i=typescript">&nbsp
         <img src="https://skillicons.dev/icons?i=nodejs">&nbsp
-        <img src="https://skillicons.dev/icons?i=prisma">&nbsp
         <img src="https://skillicons.dev/icons?i=postgresql">&nbsp  
         <img src="https://skillicons.dev/icons?i=html">&nbsp
         <img src="https://skillicons.dev/icons?i=css">&nbsp
         <img src="https://skillicons.dev/icons?i=js">&nbsp
+        <img src="https://skillicons.dev/icons?i=nextjs">&nbsp
         <img src="https://skillicons.dev/icons?i=react">&nbsp
-        <img src="https://skillicons.dev/icons?i=tailwind">&nbsp 
 <div/>
 
 
