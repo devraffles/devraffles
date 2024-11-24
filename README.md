@@ -82,6 +82,7 @@ class SobreMim extends Desenvolvedor {
         <img src="https://skillicons.dev/icons?i=github">&nbsp
         <img src="https://skillicons.dev/icons?i=vscode">&nbsp     
         <img src="https://skillicons.dev/icons?i=postman">&nbsp   
+        <img src="https://skillicons.dev/icons?i=vercel">&nbsp   
 <div/>
 
 ### 👀 Já tive contato:
