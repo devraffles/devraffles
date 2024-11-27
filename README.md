@@ -96,7 +96,7 @@ class SobreMim extends Desenvolvedor {
 ### ✏️ Estudando:
 <div display="flex">
         <img src="https://skillicons.dev/icons?i=python">&nbsp
-        <img src="https://skillicons.dev/icons?i=django">&nbsp
+        <img src="https://skillicons.dev/icons?i=flask">&nbsp
         <img src="https://skillicons.dev/icons?i=go">&nbsp        
         <img src="https://skillicons.dev/icons?i=docker">&nbsp   
         <img src="https://skillicons.dev/icons?i=typescript">&nbsp        
