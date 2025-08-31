@@ -83,7 +83,8 @@ class SobreMim extends Desenvolvedor {
         <img src="https://skillicons.dev/icons?i=git">&nbsp
         <img src="https://skillicons.dev/icons?i=vscode">&nbsp     
         <img src="https://skillicons.dev/icons?i=postman">&nbsp   
-        <img src="https://skillicons.dev/icons?i=vercel">&nbsp   
+        <img src="https://skillicons.dev/icons?i=vercel">&nbsp
+        <img src="https://skillicons.dev/icons?i=docker">&nbsp
 <div/>
 
 ### 👀 Já tive contato:
@@ -96,8 +97,7 @@ class SobreMim extends Desenvolvedor {
         
 ### ✏️ Estudando:
 <div display="flex">       
-        <img src="https://skillicons.dev/icons?i=docker">&nbsp
-        <img src="https://skillicons.dev/icons?i=kubernetes">&nbsp
+        <img src="https://skillicons.dev/icons?i=flask">&nbsp
 <div/>
         
 ### Tecnologias que eu uso no meu dia:
