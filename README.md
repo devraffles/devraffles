@@ -1,7 +1,3 @@
-<div align="center" style="margin-bottom:100px">
-        <img src="https://github.com/devraffles/devraffles/blob/main/IMG-README/Bem-vindo.jpg" />
-</div>
-
 # **Sobre mim:**
 
 ```js
@@ -115,13 +111,9 @@ class SobreMim extends Desenvolvedor {
 
 # 👨‍🎓 Formação acadêmica
 
-<img align="left" height="50px" width="50px" alt="Bento Quirino" src="https://github.com/devraffles/devraffles/blob/main/IMG-README/Forma%C3%A7%C3%A3o/Bentinho.png"/>
-
 **Curso Técnico em Informática**\
 Colégio Técnico Bento Quirino\
 Feverero de 2021 - Dezembro de 2023
-
-<img align="left" height="50px" width="50px" alt="Bento Quirino" src="https://github.com/devraffles/devraffles/blob/main/IMG-README/Forma%C3%A7%C3%A3o/Unimetrocamp.png"/>
 
 **Análise e Desenvolvimento de Sistemas**\
 Centro Universitário UniMetrocamp - Wyden\
