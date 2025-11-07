@@ -119,16 +119,6 @@ Feverero de 2021 - Dezembro de 2023
 Centro Universitário UniMetrocamp - Wyden\
 Março de 2024 - (Previsto) Dezembro de 2026 
 
-# 🏅 Conquistas no GitHub
-
-<br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="Conquistas no GitHub" src="https://github-profile-trophy.vercel.app/?username=devraffles&theme=discord&no-frame=true&column=7">
-</a>
-  
-<br>
-
 ## 🤝 Contatos:
 
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:devraffles@gmail.com)&nbsp;
