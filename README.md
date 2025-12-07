@@ -83,8 +83,9 @@ class SobreMim extends Desenvolvedor {
 <div/>
         
 ### ✏️ Estudando:
-<div display="flex">       
-        <img src="https://skillicons.dev/icons?i=flask">&nbsp
+<div display="flex"> 
+        <img src="https://skillicons.dev/icons?i=docker">&nbsp
+        <img src="https://skillicons.dev/icons?i=nodejs">&nbsp
 <div/>
         
 ### Tecnologias que eu uso no meu dia:
